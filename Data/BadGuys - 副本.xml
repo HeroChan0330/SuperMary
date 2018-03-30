@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>  
+<!--这里的y坐标0表示水平线正数表示水平线上-->
+<!--y坐标为怪物顶部到水平线的距离-->
+<GameData>
+<BadGuys Id="1">
+    <BadGuy type="0" x="300" y="151" width="30" height="31" LimRectX="250" LimRectWidth="200"/>
+    <BadGuy type="0" x="100" y="31" width="30" height="31" LimRectX="50" LimRectWidth="180"/>
+    <BadGuy type="2" x="1250" y="30" width="30" height="30" LimRectX="1200" LimRectWidth="1300"/>
+    <BadGuy type="1" x="1200" y="17" width="30" height="17" LimRectX="1100" LimRectWidth="1300"/>
+</BadGuys>
+<BadGuys Id="2">
+    <BadGuy type="0" x="300" y="151" width="30" height="31" LimRectX="250" LimRectWidth="200"/>
+    <BadGuy type="0" x="100" y="31" width="30" height="31" LimRectX="50" LimRectWidth="180"/>
+    <BadGuy type="2" x="1250" y="30" width="30" height="30" LimRectX="1200" LimRectWidth="1300"/>
+    <BadGuy type="1" x="1200" y="17" width="30" height="17" LimRectX="1100" LimRectWidth="1300"/>
+</BadGuys>
+</GameData>

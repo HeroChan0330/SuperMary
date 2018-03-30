@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>  
+<!--这里的y坐标0表示水平线正数表示水平线上-->
+<!--关于type 0为不绘制的，如背景图里面的元素（烟囱等） 1为地面 2为普通砖块 3为冒东西砖块 4为可破砖块-->
+<!--y坐标为砖块顶部到水平线的距离-->
+<GameData>
+<Bricks Id="1">
+    <Brick type="1" x="0" y="0" width="300" height="200" surprise="0"/>
+    <Brick type="1" x="450" y="0" width="3814" height="200" surprise="0"/>
+
+    <Brick type="3" x="250" y="120" width="100" height="30" surprise="2"/>
+    <Brick type="2" x="350" y="120" width="100" height="30" surprise="0"/>
+
+    <Brick type="3" x="830" y="100" width="30" height="30" surprise="1"/>
+    <Brick type="4" x="860" y="130" width="30" height="30" surprise="0"/>
+    <Brick type="2" x="890" y="180" width="80" height="30" surprise="0"/>
+    <Brick type="2" x="1100" y="100" width="150" height="30" surprise="0"/>
+    <Brick type="2" x="1200" y="180" width="150" height="30" surprise="0"/>
+
+    <Brick type="0" x="490" y="210" width="103" height="210" surprise="0"/>
+    <Brick type="0" x="615" y="165" width="103" height="165" surprise="0"/>
+
+    <Brick type="0" x="1415" y="165" width="103" height="162" surprise="0"/>
+    <Brick type="0" x="1540" y="210" width="103" height="210" surprise="0"/>
+
+    <Brick type="0" x="2620" y="210" width="103" height="210" surprise="0"/>
+    <Brick type="0" x="2750" y="165" width="103" height="162" surprise="0"/>
+
+    <Brick type="2" x="2400" y="120" width="150" height="30" surprise="0"/>
+
+    <Brick type="0" x="3545" y="165" width="103" height="165" surprise="0"/>
+    <Brick type="0" x="3670" y="210" width="103" height="210" surprise="0"/>
+    <Brick type="2" x="3200" y="120" width="250" height="30" surprise="0"/>
+
+</Bricks>
+<Bricks Id="2">
+    <Brick type="1" x="0" y="0" width="300" height="200" surprise="0"/>
+    <Brick type="1" x="450" y="0" width="3814" height="200" surprise="0"/>
+
+    <Brick type="3" x="250" y="120" width="100" height="30" surprise="2"/>
+    <Brick type="2" x="350" y="120" width="100" height="30" surprise="0"/>
+
+    <Brick type="3" x="830" y="100" width="30" height="30" surprise="1"/>
+    <Brick type="4" x="860" y="130" width="30" height="30" surprise="0"/>
+    <Brick type="2" x="890" y="180" width="80" height="30" surprise="0"/>
+    <Brick type="2" x="1100" y="100" width="150" height="30" surprise="0"/>
+    <Brick type="2" x="1200" y="180" width="150" height="30" surprise="0"/>
+
+    <Brick type="0" x="490" y="210" width="103" height="210" surprise="0"/>
+    <Brick type="0" x="615" y="165" width="103" height="165" surprise="0"/>
+
+    <Brick type="0" x="1415" y="165" width="103" height="162" surprise="0"/>
+    <Brick type="0" x="1540" y="210" width="103" height="210" surprise="0"/>
+
+    <Brick type="0" x="2620" y="210" width="103" height="210" surprise="0"/>
+    <Brick type="0" x="2750" y="165" width="103" height="162" surprise="0"/>
+
+    <Brick type="2" x="2400" y="120" width="150" height="30" surprise="0"/>
+
+    <Brick type="0" x="3545" y="165" width="103" height="165" surprise="0"/>
+    <Brick type="0" x="3670" y="210" width="103" height="210" surprise="0"/>
+    <Brick type="2" x="3200" y="120" width="250" height="30" surprise="0"/>
+
+</Bricks>
+</GameData>

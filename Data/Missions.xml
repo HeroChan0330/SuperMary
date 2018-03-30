@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>  
+<!--这里的y坐标0表示水平线正数表示水平线上-->
+<!--关于物品type 0为不绘制的，如背景图里面的元素（烟囱等） 1为地面 2为普通砖块 3为冒东西砖块 4为可破砖块-->
+<!--y坐标为砖块顶部到水平线的距离-->
+<GameData>
+<Mission Id="1" BaseLine="420" OffsetMax="-3624" SceneWidth="4264" DestionationX="4000" DestionationY="115" BGImg="Image\\bg1.jpg">
+<Coin x="105" y="20" type="2"></Coin>
+</Mission>
+<Mission Id="2" BaseLine="420" OffsetMax="-3624" SceneWidth="4264" DestionationX="4000" DestionationY="115" BGImg="Image\\bg2.jpg"></Mission>
+<Mission Id="3" BaseLine="420" OffsetMax="-3624" SceneWidth="4264" DestionationX="4000" DestionationY="115" BGImg="Image\\bg3.jpg"></Mission>
+</GameData>
